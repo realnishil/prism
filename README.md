@@ -36,7 +36,7 @@
 
 <br/>
 
-##  Overview
+## Overview
 
 **PRISM** is a unified, single-binary terminal workbench housing **87 professional utilities** in one lightning-fast environment. From instant JSON/YAML formatters and cryptographic hash crackers to JWT inspectors, cron decoders, and AST-sandboxed math engines—PRISM puts everything at your fingertips without ever leaving your terminal.
 
